@@ -17,7 +17,7 @@ Run the following commands :
 
 ## Assumptions 
 Please take into consideration the following **assumptions** while running this: 
- * Each coworker will only order his favorite drink everyday. (Eg: Bob -> Cappuccino, Jeremy -> Black Coffee, Max -> Hot Chocolate, Ben -> Cold Coffee, Joe -> Machiato, Jack -> Americano, Ryan -> Latte
+ * Each coworker will only order his favorite drink everyday. (Eg: Bob -> Cappuccino, Jeremy -> Black Coffee, Max -> Hot Chocolate, Ben -> Cold Coffee, Joe -> Machiato, Jack -> Americano, Ryan -> Latte)
  * There are only 7 coworkers and you cannot add more. Bob pays first. 
  * Prices of each coffee are set to default unless, you change them by clicking on Prices in the navbar.
 
