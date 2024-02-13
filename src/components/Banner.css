@@ -1,0 +1,48 @@
+.banner {
+    display: flex; 
+    align-items: center; 
+    height: 620px;
+    color: white;
+    object-fit: contain;
+    width: 100%;
+    position: absolute;
+}
+
+.screen {
+    overflow-y: auto; 
+}
+
+.banner-logo { 
+    position: absolute;
+    top: 180px; 
+    height: 100px;
+    width: auto;
+    margin-left: 655px;
+}
+
+.banner-title {
+    margin: auto;
+    width: 700px;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+.banner-button{
+    position: absolute;
+    top: 375px; 
+    margin-left: 640px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-family: serif;
+    font-weight: 400;
+    transition: background-color 0.3s ease;
+}
+
+.banner-button:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}

@@ -1,0 +1,65 @@
+.navbar{
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+    left: 0px;
+}
+
+.nav-contents {
+    display : flex;
+    justify-content : space-between;
+}
+
+.nav-black {
+    background-color: #111;
+}
+
+.nav-gradient { 
+    background-image: linear-gradient(
+        0deg,
+        transparent,
+        rgba(37, 37, 37, 0.4),
+        #111
+    );
+}
+
+.nav-buttons { 
+    background-color: transparent;
+    border: transparent;
+    color: white;
+    font-size: 18px;
+    margin-left: 70px;
+    font-weight: 600;
+    position: relative; /* Add position relative to anchor the underline */
+    text-decoration: none; /* Remove default underline */
+}
+
+.nav-buttons::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    transition: width 0.3s ease;
+}
+
+.nav-buttons:hover::after {
+    width: 100%;
+}
+
+.nav-pages {
+    position: fixed;
+    margin-left: 950px;
+    margin-top : 12px;
+}
+
+.logo-shop {
+    height: 100px; /* Adjust height as needed */
+    width: auto; /* Let the width adjust automatically to maintain aspect ratio */
+    padding-top: 0;
+}
