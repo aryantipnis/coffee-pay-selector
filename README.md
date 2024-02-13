@@ -27,5 +27,11 @@ Following is the tech stack used for this project:
   * Framework : `React`
   * Version Control: `Git`
 
-
+## Components of the App
+  * `Balances.js` : Component for the balance table.
+  * `Banner.js` : Component for the background image and order button
+  * `Row.js` : Component for displaying the scrollable menu
+  * `Navbar.js` : Component for the navbar
+  * `Dialog.js` : Component for changing the menu prices
+  * `manageBalances.js` : Calculates all the balances, payments and other functions
 
