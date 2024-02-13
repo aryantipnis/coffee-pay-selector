@@ -22,7 +22,8 @@ Please take into consideration the following **assumptions** while running this:
  * Prices of each coffee are set to default unless, you change them by clicking on Prices in the navbar.
 
 ## About the Application
-  * This App allows the coworkers to place an order and evaluat who will pay next with just a click of a button. The person who owes the most, pays next time. Whenever, the place an order button is clicked, all the balances are calculated in displayed in the manage expenses section.
+  * The person who owes the most, pays next time.
+  * This App allows the coworkers to place an order and evaluat who will pay next with just a click of a button. Whenever, the place an order button is clicked, all the balances are calculated in displayed in the manage expenses section.
   * It also allows you to keep a track of the menu prices. You can change these by clicking the 'Prices' button in the navbar.
   * It keeps track of the balances (how much a person owes another) in the balance table. To view click 'Balances' in the navbar.
   * It also has a 'Settle All up' button to settle all balances. 
