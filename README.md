@@ -6,8 +6,8 @@ Challenge: Write a software program to help the coworkers decide who should pay 
 
 ## Installing dependencies: 
 Run the following commands : 
-* npm install @mui/material @emotion/react @emotion/styled
-* npm install @mui/icons-material
+* `npm install @mui/material @emotion/react @emotion/styled`
+* `npm install @mui/icons-material`
 
 ## Run the Project
 
