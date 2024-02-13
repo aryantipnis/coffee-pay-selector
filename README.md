@@ -4,6 +4,11 @@ Problem: Bob, Jeremy, and the other 5 coworkers in the Bertram Labs office love 
 
 Challenge: Write a software program to help the coworkers decide who should pay for coffee. Consider that not all drinks cost the same, so to be fair please take this into account when crafting your solution. 
 
+## Installing dependencies: 
+Run the following commands : 
+* npm install @mui/material @emotion/react @emotion/styled
+* npm install @mui/icons-material
+
 ## Run the Project
 
  **To run this project, type the following in the terminal : `npm start`** 
