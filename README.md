@@ -13,7 +13,7 @@ Run the following commands :
 
 ## Run the Project
 
- **To run this project, type the following in the terminal : `npm start`** 
+ **To run this project, install all dependencies first then type the following in the terminal : `npm start`** 
 
 ## Assumptions 
 Please take into consideration the following **assumptions** while running this: 
